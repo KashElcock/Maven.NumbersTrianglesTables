@@ -44,16 +44,6 @@ public class NumberUtilitiesTest {
     }
 
 
-
-
-
-
-
-
-
-
-
-
     @Test
     public void testGetRange1B() {
         // : Given
@@ -97,17 +87,6 @@ public class NumberUtilitiesTest {
         // : Then
         Assert.assertEquals(expected, actual);
     }
-
-
-
-
-
-
-
-
-
-
-
 
 
     @Test
@@ -158,18 +137,6 @@ public class NumberUtilitiesTest {
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
     @Test
     public void testGetEvenNumbers() {
         // : Given
@@ -183,6 +150,7 @@ public class NumberUtilitiesTest {
         // : Then
         Assert.assertEquals(expected, actual);
     }
+
 
     @Test
     public void testGetOddNumbers() {
